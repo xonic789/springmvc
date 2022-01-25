@@ -1,4 +1,4 @@
-package hello.servlet.basic.web.servlet.servletmvc;
+package hello.servlet.basic.web.servletmvc;
 
 import hello.servlet.domain.member.Member;
 import hello.servlet.domain.member.MemberRepository;
